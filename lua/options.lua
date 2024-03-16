@@ -20,7 +20,6 @@ vim.opt.inccommand = "split" -- %s/word to replace/word to use
 vim.opt.ignorecase = true -- to see autocompletions on the : even if the cases do not match
 
 vim.opt.termguicolors = true
-vim.opt.shell = "powershell.exe"
+vim.opt.shell = "bash"
 
 vim.g.mapleader = " "
-
